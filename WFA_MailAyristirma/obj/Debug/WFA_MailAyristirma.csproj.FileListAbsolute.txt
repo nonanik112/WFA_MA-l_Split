@@ -1,0 +1,14 @@
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\bin\Debug\WFA_MailAyristirma.exe.config
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\bin\Debug\WFA_MailAyristirma.exe
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\bin\Debug\WFA_MailAyristirma.pdb
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\bin\Debug\MetroFramework.Design.dll
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\bin\Debug\MetroFramework.dll
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\obj\Debug\WFA_MailAyristirma.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\obj\Debug\WFA_MailAyristirma.Form1.resources
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\obj\Debug\WFA_MailAyristirma.Properties.Resources.resources
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\obj\Debug\WFA_MailAyristirma.csproj.GenerateResource.cache
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\obj\Debug\WFA_MailAyristirma.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\obj\Debug\WFA_MailAyristirma.csproj.CopyComplete
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\obj\Debug\WFA_MailAyristirma.exe
+C:\Users\Metehan\Desktop\WFA_MailAyristirma-master\WFA_MailAyristirma-master\WFA_MailAyristirma\obj\Debug\WFA_MailAyristirma.pdb

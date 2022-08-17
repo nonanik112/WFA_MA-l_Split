@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Metehan\\Desktop\\WFA_MailAyristirma-master\\WFA_MailAyristirma-master\\WFA_MailAyristirma\\WFA_MailAyristirma.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Metehan\\Desktop\\WFA_MailAyristirma-master\\WFA_MailAyristirma-master\\WFA_MailAyristirma\\WFA_MailAyristirma.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Metehan\\Desktop\\WFA_MailAyristirma-master\\WFA_MailAyristirma-master\\WFA_MailAyristirma\\WFA_MailAyristirma.csproj",
+        "projectName": "WFA_MailAyristirma",
+        "projectPath": "C:\\Users\\Metehan\\Desktop\\WFA_MailAyristirma-master\\WFA_MailAyristirma-master\\WFA_MailAyristirma\\WFA_MailAyristirma.csproj",
+        "packagesPath": "C:\\Users\\Metehan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Metehan\\Desktop\\WFA_MailAyristirma-master\\WFA_MailAyristirma-master\\WFA_MailAyristirma\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Metehan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MetroModernUI": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

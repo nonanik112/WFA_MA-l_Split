@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xVl/JzNoDno6T6Eb687XXM1D+dFsiW69lT/hfVTOszF4BjV//jABe/2dXJynyt/Bj3Fm73I3OdKF5PMo+GRw2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Metehan\\Desktop\\WFA_MailAyristirma-master\\WFA_MailAyristirma-master\\WFA_MailAyristirma\\WFA_MailAyristirma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Metehan\\.nuget\\packages\\metromodernui\\1.4.0\\metromodernui.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

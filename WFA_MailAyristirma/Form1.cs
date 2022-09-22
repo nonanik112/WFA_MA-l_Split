@@ -27,9 +27,9 @@ namespace WFA_MailAyristirma
         public int HotmailCount => hotmailList?.Count() ?? 0;
         public int HotmailTrCount => hotmailTrList?.Count() ?? 0;
         public int hotmailNetCount => hotmailNetList?.Count() ?? 0;
-        public int GmailCount => hotmailNetList?.Count() ?? 0;
-        public int GmailTrCount => hotmailNetList?.Count() ?? 0;
-        public int GmailNetCount => hotmailNetList?.Count() ?? 0;
+        public int GmailCount => gmailList?.Count() ?? 0;
+        public int GmailTrCount => gmailTrList?.Count() ?? 0;
+        public int GmailNetCount => gmailNetList?.Count() ?? 0;
         #endregion
 
         #region Utilities
@@ -72,7 +72,10 @@ namespace WFA_MailAyristirma
                         break;
 
                     default: trashList.Add(mail); break;
+
                 }
+
+
             }
         }
 
@@ -97,7 +100,6 @@ namespace WFA_MailAyristirma
             lstGmailCom.Items.AddRange(gmailList.ToArray());
             lstGmailComTr.Items.AddRange(gmailTrList.ToArray());
             lstGmailNet.Items.AddRange(gmailNetList.ToArray());
-
             lstCopKutusu.Items.AddRange(trashList.ToArray());
 
 
@@ -107,12 +109,13 @@ namespace WFA_MailAyristirma
         private void Contery()
         {
             //Set count of the list
-            metroLabel14.Text = HotmailCount.ToString();
+            lblHotmailCom.Text = HotmailCount.ToString();
             lblHotmailComTr.Text = HotmailTrCount.ToString();
             lblHotmailNet.Text = hotmailNetCount.ToString();
             lblGmailCom.Text = GmailCount.ToString();
             lblGmailComTr.Text = GmailTrCount.ToString();
             lblGmailNet.Text = GmailNetCount.ToString();
+
         }
         #endregion
 
@@ -120,11 +123,13 @@ namespace WFA_MailAyristirma
         public Form1()
         {
             InitializeComponent();
+
         }
         #endregion
 
         private void metroButton2_Click(object sender, EventArgs e)
         {
+
             FillListBoxes();
             Contery();
         }
@@ -133,8 +138,10 @@ namespace WFA_MailAyristirma
 
         private void metroButton1_Click(object sender, EventArgs e)
         {
-            ClearList();
+
             Add();
+            ClearList();
+
         }
     }
 }

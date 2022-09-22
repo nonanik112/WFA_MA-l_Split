@@ -30,7 +30,7 @@
         {
             this.lstGmailNet = new System.Windows.Forms.ListBox();
             this.metroLabel2 = new MetroFramework.Controls.MetroLabel();
-            this.metroLabel14 = new MetroFramework.Controls.MetroLabel();
+            this.lblHotmailCom = new MetroFramework.Controls.MetroLabel();
             this.metroLabel3 = new MetroFramework.Controls.MetroLabel();
             this.lblHotmailComTr = new MetroFramework.Controls.MetroLabel();
             this.metroLabel5 = new MetroFramework.Controls.MetroLabel();
@@ -90,17 +90,17 @@
             this.metroLabel2.TabIndex = 2;
             this.metroLabel2.Text = "hotmail.com";
             // 
-            // metroLabel14
+            // lblHotmailCom
             // 
-            this.metroLabel14.AutoSize = true;
-            this.metroLabel14.FontSize = MetroFramework.MetroLabelSize.Tall;
-            this.metroLabel14.ForeColor = System.Drawing.Color.Red;
-            this.metroLabel14.Location = new System.Drawing.Point(142, 49);
-            this.metroLabel14.Name = "metroLabel14";
-            this.metroLabel14.Size = new System.Drawing.Size(21, 25);
-            this.metroLabel14.TabIndex = 2;
-            this.metroLabel14.Text = "0";
-            this.metroLabel14.UseCustomForeColor = true;
+            this.lblHotmailCom.AutoSize = true;
+            this.lblHotmailCom.FontSize = MetroFramework.MetroLabelSize.Tall;
+            this.lblHotmailCom.ForeColor = System.Drawing.Color.Red;
+            this.lblHotmailCom.Location = new System.Drawing.Point(142, 49);
+            this.lblHotmailCom.Name = "lblHotmailCom";
+            this.lblHotmailCom.Size = new System.Drawing.Size(21, 25);
+            this.lblHotmailCom.TabIndex = 2;
+            this.lblHotmailCom.Text = "0";
+            this.lblHotmailCom.UseCustomForeColor = true;
             // 
             // metroLabel3
             // 
@@ -399,7 +399,7 @@
             // 
             this.groupBox2.Controls.Add(this.metroLabel2);
             this.groupBox2.Controls.Add(this.metroLabel8);
-            this.groupBox2.Controls.Add(this.metroLabel14);
+            this.groupBox2.Controls.Add(this.lblHotmailCom);
             this.groupBox2.Controls.Add(this.metroLabel3);
             this.groupBox2.Controls.Add(this.metroLabel9);
             this.groupBox2.Controls.Add(this.lblHotmailComTr);
@@ -532,7 +532,7 @@
 
         private System.Windows.Forms.ListBox lstGmailNet;
         private MetroFramework.Controls.MetroLabel metroLabel2;
-        private MetroFramework.Controls.MetroLabel metroLabel14;
+        private MetroFramework.Controls.MetroLabel lblHotmailCom;
         private MetroFramework.Controls.MetroLabel metroLabel3;
         private MetroFramework.Controls.MetroLabel lblHotmailComTr;
         private MetroFramework.Controls.MetroLabel metroLabel5;
